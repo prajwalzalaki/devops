@@ -1,3 +1,5 @@
 This is first feature of our application
 
 added new feature
+
+This is the bug fix in development branch
