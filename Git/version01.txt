@@ -10,8 +10,11 @@ This is the advancement of the previous feature
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Feature 2 is completed and ready for release
+=======
+>>>>>>> ff768a8 (Added feature2.2 in development branch)
 =======
 >>>>>>> ff768a8 (Added feature2.2 in development branch)
 =======
