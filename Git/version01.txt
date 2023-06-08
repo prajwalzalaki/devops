@@ -8,7 +8,10 @@ After bug fixing, this is the new feature with minor alterations
 
 This is the advancement of the previous feature
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Feature 2 is completed and ready for release
+=======
+>>>>>>> ff768a8 (Added feature2.2 in development branch)
 =======
 >>>>>>> ff768a8 (Added feature2.2 in development branch)
